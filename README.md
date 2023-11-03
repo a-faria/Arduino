@@ -14,4 +14,5 @@ Automatic light and door system that’s driven by the daylight measured by a ph
 
 ![gif_chicken_coop2](https://github.com/a-faria/Arduino/assets/122120022/2363d676-b38d-4fb1-b002-4011b4533e9b)
 
-![gif_chicken_coop](https://github.com/a-faria/Arduino/assets/122120022/f32898c2-00bc-4375-bfb6-eb84ba0ebe2b)
+![image](https://github.com/a-faria/Arduino/assets/122120022/31f36dc8-cf40-4ea1-ae8e-c638b29ccef5)
+
