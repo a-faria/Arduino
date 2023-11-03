@@ -11,8 +11,7 @@ Thinkercad Diagram
 
 # Miniature chicken coop: 
 Automatic light and door system that’s driven by the daylight measured by a photoresistor. Complemented by a secondary system driven by Infrared remote control.
-![image](https://github.com/a-faria/Arduino/assets/122120022/e1025b66-40d8-4776-96b8-a4281fa386a6)
 
-![image](https://github.com/a-faria/Arduino/assets/122120022/8063fcab-aa2a-4c94-a03f-e3ec8b4263b4)
+![gif_chicken_coop2](https://github.com/a-faria/Arduino/assets/122120022/2363d676-b38d-4fb1-b002-4011b4533e9b)
 
 ![gif_chicken_coop](https://github.com/a-faria/Arduino/assets/122120022/f32898c2-00bc-4375-bfb6-eb84ba0ebe2b)
