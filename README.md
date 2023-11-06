@@ -4,6 +4,7 @@ various electronics projects
 
 LED-based circuit simulating a traffic light road intersection.
 ![image](https://github.com/a-faria/Arduino/assets/122120022/df244f16-f7b4-4a17-b26d-b06b65a968d3)
+built a breadboard circuit to simulate a traffic light intersection. The LEDS are programmed to follow the same pattern as a real-life intersection.
 
 Thinkercad Diagram
 
