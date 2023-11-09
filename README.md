@@ -1,5 +1,5 @@
 # Arduino
-various electronics projects
+Electronics projects
 # 4-way Traffic-light system: 
 
 LED-based circuit simulating a traffic light road intersection.
