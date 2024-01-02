@@ -17,3 +17,8 @@ Automatic light and door system, with a servo motor driven by the daylight inten
 
 ![image](https://github.com/a-faria/Arduino/assets/122120022/31f36dc8-cf40-4ea1-ae8e-c638b29ccef5)
 
+
+# 2023 Christmas card
+blinking LEDs+ Christmas message display
+
+![gif_xmaspostcard2023_2](https://github.com/a-faria/Arduino/assets/122120022/c87fd655-1af6-4c2a-a6ef-ad2b52fda991)
