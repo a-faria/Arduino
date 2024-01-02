@@ -19,6 +19,8 @@ Automatic light and door system, with a servo motor driven by the daylight inten
 
 
 # 2023 Christmas card
-blinking LEDs+ Christmas message display
+blinking LEDs+ Christmas message using a 1.3 OLED SCREEN display. 
+
+Driver chip SH1106 using I2C communication
 
 ![gif_xmaspostcard2023_2](https://github.com/a-faria/Arduino/assets/122120022/c87fd655-1af6-4c2a-a6ef-ad2b52fda991)
